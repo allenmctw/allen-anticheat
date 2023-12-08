@@ -1,22 +1,22 @@
 # allen-anticheat
 這是一個儲存各種minecraft防外掛的地方。
 # anticheat-list
-#nocheatplus
+-nocheatplus
 
-#vulcan
+-vulcan
 
-#verus
+-verus
 
-#watchdog
+-watchdog
 
-#spartan
+-spartan
 
-#matrix
+-matrix
 
-#karhu
+-karhu
 
-#antigamingchair
+-antigamingchair
 
-#antiaura
+-antiaura
 
-#negativity
+-negativity
